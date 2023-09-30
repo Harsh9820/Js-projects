@@ -1,0 +1,11 @@
+body {
+    margin: 20px;
+  }
+  
+  p{
+    display:flex inline;
+    border:2px solid;
+    padding:20px;
+    justify-content:center;
+    
+  }
